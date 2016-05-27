@@ -1,0 +1,3 @@
+Testing multiple versions of SLF4J on the classpath
+
+Run: ./build-and-run.sh
